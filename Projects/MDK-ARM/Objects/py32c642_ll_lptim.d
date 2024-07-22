@@ -1,0 +1,14 @@
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\PY32C642_HAL_Driver\Src\py32c642_ll_lptim.c
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\PY32C642_HAL_Driver\Inc\py32c642_ll_lptim.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\CMSIS\Device\PY32C6xx\Include\py32c6xx.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\CMSIS\Device\PY32C6xx\Include\py32c642x5.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\CMSIS\Include\core_cm0plus.h
+.\objects\py32c642_ll_lptim.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\CMSIS\Include\core_cmInstr.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\CMSIS\Include\core_cmFunc.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\CMSIS\Device\PY32C6xx\Include\system_py32c6xx.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\PY32C642_HAL_Driver\Inc\py32c642_ll_bus.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\CMSIS\Device\PY32C6xx\Include\py32c6xx.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\PY32C642_HAL_Driver\Inc\py32c642_ll_rcc.h
+.\objects\py32c642_ll_lptim.o: ..\..\Drivers\CMSIS\Device\PY32C6xx\Include\py32c6xx.h

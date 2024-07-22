@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.c": "c",
+        "type_traits": "c",
+        "main.h": "c",
+        "user.h": "c",
+        "typedef.h": "c"
+    }
+}
